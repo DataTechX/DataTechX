@@ -1,6 +1,6 @@
 
 
-<img alt="Most Used Language" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JKTheRipperTH&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
+<img alt="Most Used Language" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DataTechX&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
 <img alt="Most Used Languages" align="right" width="50%" src="https://lanyard.cnrad.dev/api/827530462675075102" >
 
 ## อาโย่!
